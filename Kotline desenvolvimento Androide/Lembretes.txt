@@ -1,0 +1,10 @@
+ *Um booleano é um tipo de dados que pode ser usado para
+ representar verdadeiro ou falso.
+Os valores booleanos são escritos como "true" ou "false".
+
+*Em certas linguagens de programação de computador, o operador 
+Elvis ?: é um operador binário que retorna seu primeiro operando se
+ esse operando for true e, caso contrário, avalia e retorna seu 
+segundo operando. É um variante do operador condicional 
+ternário, ? :, encontrados nessas línguas (e muitos outros): o
+ operador Elvis é o operador ternário com o seu segundo operando omitido.
