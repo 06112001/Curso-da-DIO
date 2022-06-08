@@ -1,0 +1,7 @@
+Passos para subir modificações para o GitHab;
+
+1: Modificações
+2: git status
+3: git add *
+4: git commit -m "Mensagem"
+5: git push 
